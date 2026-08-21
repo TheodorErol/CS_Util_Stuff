@@ -1,6 +1,6 @@
 # CS_Util_Stuff
 
-In this project you can find two folders. 
+In this project you will find two folders. 
 
 In each there is another README with more specific instructions. 
 
